@@ -12,7 +12,8 @@ Here's a list of the artifacts, with a brief description and the corresponding p
 
 1. **[Website Description Generator](https://claude.ai/public/artifacts/f208d150-50b5-40bf-834d-e4472042417f):** Transform your website content into compelling descriptions.
 2. **[Viral Thread Generator](https://claude.ai/public/artifacts/0bc8a6c7-740f-4818-9d8b-f5096bd2b1f1):** Transform your blog content into engaging educational threads.
-3. **[Viral Tweet Generator](https://claude.ai/public/artifacts/f208d150-50b5-40bf-834d-e4472042417f):** Create engaging, viral-worthy tweets that captivate your audience.
+3. **[Viral Tweet Generator](https://claude.ai/public/artifacts/cd1386cc-ee76-4a6e-b1c8-c03c20e2a671):** Create engaging, viral-worthy tweets that captivate your audience.
+4. **[Fix content writing](https://claude.ai/public/artifacts/c4fb4ebe-f279-4ca2-bb5c-3523f8446592):** Fix mistake in your content wrtiting like blog post, generate metadata and AI image prompt
 
 
 
@@ -20,11 +21,11 @@ Here's a list of the artifacts, with a brief description and the corresponding p
 
 **How to Use:**
 
-Simply click on the links to view the artifacts.  You may need a specific application (e.g., a PDF reader, a text editor) to open some of them.
+Simply click on the links to view the artifacts.  You need to have Claude AI account to use the artifacts, free account will work fine.
 
 **Feedback:**
 
-If you have any feedback or questions, please feel free to [provide a way to contact you - e.g., "open an issue on this repository", or "contact me at [your email address]"].
+If you have any feedback or questions, please feel free to [contact me](https://araixrand.com/) "open an issue on this repository".
 
 ---
 
