@@ -13,7 +13,7 @@ Here's a list of the artifacts, with a brief description and the corresponding p
 1. **[Website Description Generator](https://claude.ai/public/artifacts/f208d150-50b5-40bf-834d-e4472042417f):** Transform your website content into compelling descriptions.
 2. **[Viral Thread Generator](https://claude.ai/public/artifacts/0bc8a6c7-740f-4818-9d8b-f5096bd2b1f1):** Transform your blog content into engaging educational threads.
 3. **[Viral Tweet Generator](https://claude.ai/public/artifacts/cd1386cc-ee76-4a6e-b1c8-c03c20e2a671):** Create engaging, viral-worthy tweets that captivate your audience.
-4. **[Fix content writing](https://claude.ai/public/artifacts/c4fb4ebe-f279-4ca2-bb5c-3523f8446592):** Fix mistake in your content wrtiting like blog post, generate metadata and AI image prompt
+4. **[Fix content writing](https://claude.ai/public/artifacts/1fbb7859-7ea2-4b5c-ba1a-8c177f5f94e8):** Fix mistake in your content wrtiting like blog post, generate metadata and AI image prompt
 
 
 
